@@ -1,0 +1,26 @@
+.active {
+  color: red;
+  font-weight: bold;
+}
+
+nav {
+  border: 2px solid burlywood;
+  margin: 1em 2em;
+  padding: 1em;
+}
+
+nav > ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+nav > ul > li {
+  border: 1px solid black;
+  padding: .5rem;
+  margin: .5rem;
+}
+
+nav > ul > li > a {
+  text-decoration: none;
+}
