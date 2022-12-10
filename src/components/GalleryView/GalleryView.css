@@ -1,0 +1,7 @@
+.gallery-view {
+  padding: 1rem 2rem;
+}
+
+.gallery-view > h2 {
+  text-align: center;
+}
